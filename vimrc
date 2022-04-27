@@ -1,7 +1,7 @@
 "------------------------------------------------------------------------------
 " File: $HOME/.vimrc
 " Author: trungbat <https://codewithbat.com>
-" URL: https://github.com/batTrung
+" URL: https://github.com/batTrung/dotfiles/blob/master/vimrc 
 "------------------------------------------------------------------------------
 
 "=====================================================
